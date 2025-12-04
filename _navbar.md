@@ -1,4 +1,5 @@
 * [首页](/)
+* [Web3知识库](https://github.com/RainWeb4/rainweb3.github.io)
 * [文档目录](https://github.com/RainWeb4/rainweb4.github.io/tree/main/web4_doc)
 * [GitHub](https://github.com/RainWeb4/rainweb4.github.io)
 * [说明](https://github.com/RainWeb4/rainweb4.github.io/blob/main/README.md)

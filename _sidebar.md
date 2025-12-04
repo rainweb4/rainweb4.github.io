@@ -1,2 +1,13 @@
 - [🏠 首页](/)
 ---
+- [✅ Web3知识库-新地址](https://github.com/RainWeb4/rainweb3.github.io)
+---
+- [✅ Web3知识库-因账号问题-旧地址-不再更新](https://rainweb3.github.io)
+---
+- [⛓️ Solidity-Foundry项目](https://github.com/RainWeb4/solidity-foundry.github.io)
+---
+- [⛓️ Solidity-Hardhat项目](https://github.com/RainWeb4/solidity-hardhat.github.io)
+---
+- [📚 英语知识库](https://github.com/RainWeb4/en.github.io)
+---
+- [🛠️ 工具收录库](https://github.com/RainWeb4/utils-lib.github.io)
