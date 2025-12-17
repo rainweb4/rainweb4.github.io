@@ -12,9 +12,6 @@
 - 知识学习，不应因没有具备经济被封锁
 - 不卖课、不推广、不引流
 - 接受开放的远程合作、交流、咨询。
-
-- 如果存在招聘人才的需求，可在下方"全球公开招聘信息库"自行提交
-- If there is a need to recruit talent, you may submit your request directly in the "Global Public Job Posting Database" below.
 ---
 ## Rain知识库导航
 ```text
